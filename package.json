@@ -1,0 +1,16 @@
+{
+  "name": "rabbitsandbobcats",
+  "version": "1.0.0",
+  "description": "A project to simulate population of rabbits and bobcats over time",
+  "main": "main.js",
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "colors": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node main.js"
+  },
+  "author": "Eli Smith",
+  "license": "MIT"
+}
